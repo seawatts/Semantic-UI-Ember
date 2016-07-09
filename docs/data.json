@@ -1,0 +1,14 @@
+{
+    "project": {
+        "name": "semantic-ui-ember",
+        "description": "Semantic UI for Ember applications",
+        "url": "http://github.com/Semantic-Org/Semantic-UI-Ember",
+        "version": "1.0.0.c6b605d2"
+    },
+    "files": {},
+    "modules": {},
+    "classes": {},
+    "elements": {},
+    "classitems": [],
+    "warnings": []
+}
